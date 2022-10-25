@@ -81,9 +81,9 @@ body {
 }
 
 .text-box-container {
-  margin: 0.25rem;
+  margin: 0.25rem 0;
   box-sizing: border-box;
-  padding: 6.7rem;
+  padding-left: 6.7rem;
   height: calc(100% - 0.5rem);
   display: flex;
   align-items: center;
