@@ -422,6 +422,7 @@ body {
   margin: 0rem 76.8rem 6.009rem 0rem;
   width: calc(100% - 76.8rem);
   display: flex;
+	
   align-items: center;
 }
 
